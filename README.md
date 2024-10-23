@@ -1,12 +1,25 @@
-# exploracion_visualizacion_datos
-Análisis de precios de Airbnb mediante PowerBi.
+# 📊  Exploration and data visualitation with Power Bi📈 
 
-Está práctica es parte del curso de Keepcoding en el módulo de exploración y visualización de datos, aquí una explicación:
-A partir de un conjunto de datos realicé un dashboard que ayuda a visualizar el cambio en los precios de alojamientos de Airbnb, en la parte superior del dashboard están dos filtros uno para seleccionar si se quiere ver por ubicación de alojamiento y/o tipo de alojamiento, a un lado está la información de cuantos anfitriones, alojamientos y opiniones en total hay en Madrid.
-El grafico precio anual/mensual muestra el cambio de los precios en el transcurso de los años.
-el grafico de abajo muestra si hay correlacion entre el tamaño en metros cuadrados y el precio de los alojamientos
-la tabla que está en medio muestra el promedio de los alojamientos según el tipo de propiedad en cada ubicación 
-y el último es un mapa donde te muestra los alojamientos que hay de color vere a rojo marcando precio más bajo al más alto, al pasar el mouse por encima de las burbujas se muestra el identificador del alojamiento, el precio, las habitaciones con las que cuenta y una gráfica donde se ve la cantidad de veces alquilada y el número de opiniones que tiene el alojamiento.
+This project is part of the Data Exploration and Visualization module.
 
-Quedo atenta a tus comentarios
-Saludos 
+Using the _"Airbnb Listings Madrid"_ dataset, I developed an interactive dashboard that helps visualize Airbnb accommodation prices in Madrid.
+
+
+### 🗺️ *By location:*
+[![Captura-de-pantalla-2024-10-23-110407.png](https://i.postimg.cc/Xv6MF60N/Captura-de-pantalla-2024-10-23-110407.png)](https://postimg.cc/fVCgnFL1)
+
+✅ At the top of the dashboard, there are two filters: One to select the location and another to filter by property type.
+
+✅On the right-hand side, information is displayed regarding the number of hosts, accommodations, and reviews associated with each listing.
+
+✅The Annual/Monthly Price chart shows the price changes over the years.
+
+✅The chart at the bottom illustrates whether there is a correlation between the size of the accommodations (in square meters) and their price.
+
+✅The central table, titled Property Type by Location and Room Type, displays the average price of accommodations based on property type for each location.
+
+✅The interactive map visualizes available accommodations, using a color scale from green (lower price) to red (higher price). When hovering over the bubbles, detailed information about the accommodation is displayed, including its identifier, price, number of rooms, and a graph showing how many times it has been rented and the number of reviews it has received.
+
+
+### 🗺️ *All locations:*
+[![Captura-de-pantalla-2024-10-23-110437.png](https://i.postimg.cc/Lsr6Wbfn/Captura-de-pantalla-2024-10-23-110437.png)](https://postimg.cc/Z9xSBjwS)
